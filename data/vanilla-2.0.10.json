@@ -6628,13 +6628,13 @@
         "icon_col": 10,
         "icon_row": 10,
         "ingredients": [ {
-            "amount": 1,
+            "amount": 2,
             "name": "firearm-magazine"
         }, {
             "amount": 1,
             "name": "steel-plate"
         }, {
-            "amount": 5,
+            "amount": 2,
             "name": "copper-plate"
         } ],
         "key": "piercing-rounds-magazine",
